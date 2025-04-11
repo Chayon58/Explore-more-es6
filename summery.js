@@ -62,6 +62,7 @@ class Person{
 }
 
 
+
 class Hena extends Person{
     constructor(name,age,status) {
         super(name,age)
